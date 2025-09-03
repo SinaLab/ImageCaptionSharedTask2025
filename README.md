@@ -23,6 +23,8 @@ To participate in the shared task, please register in ([the official registratio
 The training and development datasets are available in the [SinaLab/ImageEval2025Task2TrainDataset](https://huggingface.co/datasets/SinaLab/ImageEval2025Task2TrainDataset) dataset.
 
  The test dataset will be shared only during the test phase in the shared task ([see the deadlines](https://sina.birzeit.edu/image_eval2025/index.html))
+ 
+ *Note: The dataset can be accessed on request.*
 
 
 ## 🗂️ Project Structure
@@ -58,3 +60,18 @@ For any questions or support:
 ---
 
 *This repository provides the foundational tools and baselines for participating in the Arabic Image Captioning Shared Task 2025. Each component is designed to be modular and extensible for research and development purposes.*
+
+## 📖 Citation
+
+If you use this repository in your research, please cite:
+
+```bibtex
+@inproceedings{bashiti2025imageeval,
+  title     = {{ImageEval 2025: The First Arabic Image Captioning Shared Task}},
+  author    = {Bashiti, Ahlam and Aljabari, Alaa and Hamoud, Hadi and Biswas, Md. Rafiul and Shalash, Bilal and Jarrar, Mustafa and Zaraket, Fadi and Mikros, George and Asgari, Ehsaneddin and Zaghouani, Wajdi},
+  booktitle = {Proceedings of the Third Arabic Natural Language Processing Conference (ArabicNLP 2025)},
+  year      = {2025},
+  location  = {Suzhou, China},
+  note      = {Co-located with EMNLP 2025, November 5--9}
+}
+
