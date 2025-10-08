@@ -1,53 +1,33 @@
 cff-version: 1.2.0
-message: "If you use this repository, please cite our paper:"
-authors:
-  - family-names: "Bashiti"
-    given-names: "Ahlam"
-  - family-names: "Aljabari"
-    given-names: "Alaa"
-  - family-names: "Hamoud"
-    given-names: "Hadi"
-  - family-names: "Biswas"
-    given-names: "Md. Rafiul"
-  - family-names: "Shalash"
-    given-names: "Bilal"
-  - family-names: "Jarrar"
-    given-names: "Mustafa"
-  - family-names: "Zaraket"
-    given-names: "Fadi"
-  - family-names: "Mikros"
-    given-names: "George"
-  - family-names: "Asgari"
-    given-names: "Ehsaneddin"
-  - family-names: "Zaghouani"
-    given-names: "Wajdi"
+message: "Please cite this work as follows."
+type: conference-paper
 title: "ImageEval 2025: The First Arabic Image Captioning Shared Task"
-preferred-citation:
-  type: conference-paper
-  title: "ImageEval 2025: The First Arabic Image Captioning Shared Task"
-  authors:
-    - family-names: "Bashiti"
-      given-names: "Ahlam"
-    - family-names: "Aljabari"
-      given-names: "Alaa"
-    - family-names: "Hamoud"
-      given-names: "Hadi"
-    - family-names: "Biswas"
-      given-names: "Md. Rafiul"
-    - family-names: "Shalash"
-      given-names: "Bilal"
-    - family-names: "Jarrar"
-      given-names: "Mustafa"
-    - family-names: "Zaraket"
-      given-names: "Fadi"
-    - family-names: "Mikros"
-      given-names: "George"
-    - family-names: "Asgari"
-      given-names: "Ehsaneddin"
-    - family-names: "Zaghouani"
-      given-names: "Wajdi"
-  conference: "Proceedings of the Third Arabic Natural Language Processing Conference (ArabicNLP 2025)"
+authors:
+  - family-names: Bashiti
+    given-names: Ahlam
+  - family-names: Aljabari
+    given-names: Alaa
+  - family-names: Hamoud
+    given-names: Hadi
+  - family-names: Biswas
+    given-names: Md. Rafiul
+  - family-names: Shalash
+    given-names: Bilal
+  - family-names: Jarrar
+    given-names: Mustafa
+  - family-names: Zaraket
+    given-names: Fadi
+  - family-names: Mikros
+    given-names: George
+  - family-names: Asgari
+    given-names: Ehsaneddin
+  - family-names: Zaghouani
+    given-names: Wajdi
+conference:
+  name: "Proceedings of the Third Arabic Natural Language Processing Conference (ArabicNLP 2025)"
+  address: "Suzhou, China"
+  month: November
   year: 2025
-  location: "Suzhou, China"
-  notes: "Co-located with EMNLP 2025, November 5--9"
-
+publisher:
+  name: "Association for Computational Linguistics"
+url: "https://www.jarrar.info/publications/BAH25.pdf"
