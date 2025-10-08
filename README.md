@@ -66,12 +66,14 @@ For any questions or support:
 If you use this repository in your research, please cite:
 
 ```bibtex
-@inproceedings{bashiti2025imageeval,
-  title     = {{ImageEval 2025: The First Arabic Image Captioning Shared Task}},
-  author    = {Bashiti, Ahlam and Aljabari, Alaa and Hamoud, Hadi and Biswas, Md. Rafiul and Shalash, Bilal and Jarrar, Mustafa and Zaraket, Fadi and Mikros, George and Asgari, Ehsaneddin and Zaghouani, Wajdi},
-  booktitle = {Proceedings of the Third Arabic Natural Language Processing Conference (ArabicNLP 2025)},
-  year      = {2025},
-  location  = {Suzhou, China},
-  note      = {Co-located with EMNLP 2025, November 5--9}
+@inproceedings{bashiti-etal-2025-imageeval-shared-task,
+title = "{I}mage{E}val 2025: {T}he {F}irst {A}rabic {I}mage {C}aptioning {S}hared {T}ask",
+author = "Bashiti, Ahlam and Aljabari, Alaa and Hamoud, Hadi and Biswas, Md. Rafiul and Shalash, Bilal and Jarrar, Mustafa and Zaraket, Fadi and Mikros, George and Asgari, Ehsaneddin and Zaghouani, Wajdi",
+booktitle = {Proceedings of the Third Arabic Natural Language Processing Conference (ArabicNLP 2025)},
+address = {Suzhou, China},
+month = {November},
+year = {2025},
+url = {https://www.jarrar.info/publications/BAH25.pdf},
+publisher = {Association for Computational Linguistics}
 }
 
